@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0-putchar.c
 1-alphabet.c 
 2-print_alphabet_x10.c 
@@ -10,3 +11,6 @@
 9-times_table.c 
 10-add.c 
 11-print_to_98.c 
+=======
+descriptions
+>>>>>>> 0b7c91d0eea86472ab88c614e5159038c5550e54
